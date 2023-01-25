@@ -12,11 +12,11 @@ button {
 	background-color: #f853fd;
 	cursor: pointer;
 	border: none;
-	box-shadow: 0 9px #f40cfc;
+	box-shadow: 0 6px #f40cfc;
 }
 
 button:active {
 	background-color: #f331fa;
-	box-shadow: 0 5px #f40cfc;
+	box-shadow: 0 1px #f40cfc;
 	transform: translateY(4px);
 }
